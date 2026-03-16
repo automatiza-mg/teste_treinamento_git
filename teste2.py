@@ -1,3 +1,3 @@
 print ("outro arquivo")
-soma = 2+2
+soma = 4+4
 print (soma)
